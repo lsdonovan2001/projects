@@ -4,8 +4,8 @@
 This project implements and analyzes **Gaussian Mixture Models (GMMs)** for image segmentation.  
 The goal is to automatically separate objects within an image by clustering pixel values, using the Expectation–Maximization (EM) algorithm to estimate mixture parameters.
 
--**Paper:** [Image Segmentation By Means of a Gaussian Mixture Model](paper.pdf)
--**Presentation** [Slides for GMM Image Segmentation](slides.pdf)
+- **Paper:** [Image Segmentation By Means of a Gaussian Mixture Model](paper.pdf)
+- **Presentation** [Slides for GMM Image Segmentation](slides.pdf)
 
 ---
 
