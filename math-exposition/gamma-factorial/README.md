@@ -13,7 +13,7 @@ Rather than beginning with the Gamma function as a definition, the document buil
 - how the Gamma function arises as a shifted variant  
 
 **PDF:**  
-[Gamma and Factorial Exposition](The_Pi_and_Gamma_Functions.pdf)
+[Gamma and Factorial Exposition](gamma-and-factorial-exponsition.pdf)
 
 ---
 
