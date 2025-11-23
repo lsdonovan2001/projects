@@ -12,7 +12,7 @@ Rather than beginning with the Gamma function as a definition, the document buil
 - how Euler arrived at his Π-function  
 - how the Gamma function arises as a shifted variant  
 
-📄 **PDF:**  
+**PDF:**  
 [Gamma and Factorial Exposition](The_Pi_and_Gamma_Functions.pdf)
 
 ---
